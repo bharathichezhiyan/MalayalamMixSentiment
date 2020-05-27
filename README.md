@@ -1,5 +1,7 @@
 # MalayalamMixSentiment
 A Sentiment Analysis Dataset for Code-Mixed Malayalam-English
+
+Dataset can be downloaded by emailing author bharathiraja.akr@gmail.com
  
  
     @inproceedings{chakravarthi-etal-2020-senti-malayalam,
