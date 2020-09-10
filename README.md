@@ -1,7 +1,7 @@
 # MalayalamMixSentiment
 A Sentiment Analysis Dataset for Code-Mixed Malayalam-English
 
-Dataset can be downloaded by emailing author bharathiraja.akr@gmail.com or here https://zenodo.org/record/4015234#.X1oTeRQnbmF
+Dataset can be downloaded by emailing author bharathiraja.akr@gmail.com or here https://dravidian-codemix.github.io/2020/datasets.html and https://zenodo.org/record/4015234#.X1oTeRQnbmF
  
  
     @inproceedings{chakravarthi-etal-2020-senti-malayalam,
